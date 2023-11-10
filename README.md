@@ -1,14 +1,11 @@
-## Control_input_devices_by_Pose
+# Control Input Devices by Pose (Game Controller)
 
+## Overview
+This project stimulates the process of input devices using PyAutoGUI for key simulation and pose detection through the Mediapipe library. It enables you to control input devices, acting as a game controller, based on hand poses captured by a webcam.
 
-#stimulate the process of input devices by pyautoGUI and pose detection using mediapipe
+## Getting Started
 
-
-```
+### Prerequisites
+Ensure you have the required libraries installed by running the following command:
+```bash
 pip install -r requirements.txt
-```
-this above comment will help you to download all required libraries we need
-
-
-
-And run main.py file and you can run this code easily with setting up with key values which we need to use
