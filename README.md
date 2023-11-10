@@ -15,6 +15,8 @@ Make sure to install the following Python packages before running the code:
 - PyAutoGUI (`pyautogui`)
 - Mediapipe (`mediapipe`)
 - Matplotlib (`matplotlib`) [temporary import]
+
+You can install them using the following command:
 ```bash
 
 
