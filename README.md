@@ -7,5 +7,15 @@ This project stimulates the process of input devices using PyAutoGUI for key sim
 
 ### Prerequisites
 Ensure you have the required libraries installed by running the following command:
+
+Make sure to install the following Python packages before running the code:
+
+- OpenCV (`cv2`)
+- NumPy (`numpy`)
+- PyAutoGUI (`pyautogui`)
+- Mediapipe (`mediapipe`)
+- Matplotlib (`matplotlib`) [temporary import]
 ```bash
+
+
 pip install -r requirements.txt
